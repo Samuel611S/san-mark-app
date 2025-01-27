@@ -26,8 +26,8 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/glasses-registration-system.git
-   cd glasses-registration-system
+   git clone https://github.com/samuel611s/san-mark-app.git
+   cd san-mark-app
    ```
 
 2. Install the required dependencies:
