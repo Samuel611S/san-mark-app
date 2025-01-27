@@ -1,4 +1,4 @@
-# Glasses Registration System
+# San Mark App
 
 A desktop application for managing glasses sales and customer data, built using Python and SQLite.
 
